@@ -1,0 +1,231 @@
+label,path,struc
+0,./clean_data/A1/0.py,Class Method Attribute Attribute Method Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/1.py,Class Method Attribute Attribute Method Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/10.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/11.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/12.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/13.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/14.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/15.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/16.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/17.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/18.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/19.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/2.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/20.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/21.py,Class Method Attribute Attribute Method Attribute Method Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/23.py,
+0,./clean_data/A1/24.py,
+0,./clean_data/A1/25.py,
+0,./clean_data/A1/3.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/33.py,Class Method Attribute Attribute Method Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute
+0,./clean_data/A1/34.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute
+0,./clean_data/A1/35.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute
+0,./clean_data/A1/36.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute
+0,./clean_data/A1/37.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/38.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/39.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute
+0,./clean_data/A1/4.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/40.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute
+0,./clean_data/A1/41.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute
+0,./clean_data/A1/42.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute
+0,./clean_data/A1/43.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute
+0,./clean_data/A1/44.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute
+0,./clean_data/A1/45.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/46.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/47.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/48.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/49.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/5.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/50.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/51.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/52.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/53.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/54.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/55.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/56.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/59.py,Class Method Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/6.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/60.py,Class Method Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/61.py,Class Method Attribute Attribute Method Attribute Method Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/62.py,Class Method Attribute Attribute Method Attribute Method Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/63.py,Class Method Attribute Attribute Method Attribute Method Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/64.py,Class Method Attribute Attribute Method Attribute Method Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/65.py,Class Method Attribute Attribute Method Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/66.py,Class Method Attribute Attribute Method Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/67.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/68.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/69.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/7.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/70.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/71.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/72.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/73.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/74.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/75.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/76.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/77.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/78.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/79.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/8.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/80.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/81.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/82.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/83.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/84.py,Class Method Attribute Attribute Method Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/85.py,Class Method Attribute Attribute Method Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/86.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/87.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/88.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/89.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/9.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/90.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/91.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/92.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute
+0,./clean_data/A1/93.py,Class Method Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute
+0,./clean_data/A1/94.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute
+0,./clean_data/A1/95.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/96.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/98.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+0,./clean_data/A1/99.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+1,./clean_data/A14/0.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/1.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/10.py,Func For For If
+1,./clean_data/A14/11.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/12.py,Func For For If
+1,./clean_data/A14/13.py,Func For For If
+1,./clean_data/A14/14.py,Func For For If
+1,./clean_data/A14/15.py,Func For For If
+1,./clean_data/A14/16.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/17.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/18.py,Func Variable For For If
+1,./clean_data/A14/19.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/2.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/20.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/21.py,Func Variable For For If
+1,./clean_data/A14/22.py,Func Variable For For If
+1,./clean_data/A14/23.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/24.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/25.py,Func For For If
+1,./clean_data/A14/26.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/27.py,Func Variable For Variable For Variable If Variable Variable
+1,./clean_data/A14/28.py,Func For Variable Variable Variable Variable For Variable Variable If If Variable Variable Variable Variable
+1,./clean_data/A14/29.py,Func Variable For For If
+1,./clean_data/A14/3.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/30.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/31.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/32.py,Func For For If
+1,./clean_data/A14/33.py,Func Variable For For If
+1,./clean_data/A14/34.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/35.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/36.py,Func For Variable For For Variable If Variable Variable
+1,./clean_data/A14/37.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/38.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/39.py,Func Variable For Variable For Variable If Variable Variable
+1,./clean_data/A14/4.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/40.py,Func For For If
+1,./clean_data/A14/41.py,Func Variable For For If
+1,./clean_data/A14/42.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/43.py,Func Variable Variable Variable Variable If Variable Variable Variable
+1,./clean_data/A14/44.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/45.py,Func Variable For For If
+1,./clean_data/A14/46.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/47.py,Func Variable Variable Variable Variable If Variable Variable Variable
+1,./clean_data/A14/48.py,Func Variable Variable Variable Variable If Variable Variable Variable
+1,./clean_data/A14/5.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/50.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/6.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/7.py,Func For Variable For Variable If Variable Variable
+1,./clean_data/A14/8.py,Func For For If
+1,./clean_data/A14/9.py,Func For For If
+2,./clean_data/A16/0.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute Attribute Attribute
+2,./clean_data/A16/1.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/10.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/11.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/12.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/13.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/14.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/15.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/16.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/17.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/18.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/19.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/2.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/20.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/21.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/22.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/23.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/24.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/25.py,Class Method Attribute Attribute Method Attribute Attribute Attribute Method Attribute Attribute Attribute Attribute Attribute Attribute Method Attribute Attribute Attribute
+2,./clean_data/A16/26.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/27.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/28.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/29.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/3.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/30.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/31.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/32.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/33.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/34.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/36.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/4.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/5.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/6.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/7.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/8.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+2,./clean_data/A16/9.py,Class Method Attribute Attribute Attribute Method Attribute Attribute Method Attribute
+3,./clean_data/A2/0.py,Func If Variable Variable
+3,./clean_data/A2/1.py,Func Variable For
+3,./clean_data/A2/10.py,Func Variable For Variable Variable
+3,./clean_data/A2/11.py,Func Variable For
+3,./clean_data/A2/12.py,Func Variable For Variable Variable
+3,./clean_data/A2/13.py,Func If
+3,./clean_data/A2/14.py,Func Variable For
+3,./clean_data/A2/15.py,Func Variable For
+3,./clean_data/A2/16.py,Func Variable Variable For
+3,./clean_data/A2/17.py,Func If
+3,./clean_data/A2/18.py,Func Variable For
+3,./clean_data/A2/19.py,Func Variable For Variable Variable
+3,./clean_data/A2/2.py,Func Variable Variable For
+3,./clean_data/A2/20.py,Func Variable For Variable Variable
+3,./clean_data/A2/21.py,Func Variable For Variable Variable
+3,./clean_data/A2/22.py,Func Variable For Variable Variable
+3,./clean_data/A2/23.py,Func Variable For Variable Variable
+3,./clean_data/A2/24.py,Func If
+3,./clean_data/A2/25.py,Func Variable Variable Variable Variable
+3,./clean_data/A2/26.py,Func Variable For
+3,./clean_data/A2/27.py,Func Variable For
+3,./clean_data/A2/28.py,Func Variable For Variable Variable
+3,./clean_data/A2/29.py,Func If
+3,./clean_data/A2/3.py,Func Variable For
+3,./clean_data/A2/30.py,Func Variable For
+3,./clean_data/A2/31.py,Func Variable For Variable Variable
+3,./clean_data/A2/32.py,Func Variable For Variable Variable
+3,./clean_data/A2/33.py,Func Variable For Variable Variable
+3,./clean_data/A2/34.py,Func If
+3,./clean_data/A2/35.py,Func Variable Variable For Variable Variable Variable Variable
+3,./clean_data/A2/36.py,Func If
+3,./clean_data/A2/37.py,Func Variable For
+3,./clean_data/A2/38.py,Func Variable For Variable Variable
+3,./clean_data/A2/39.py,Func Variable For
+3,./clean_data/A2/4.py,Func Variable For
+3,./clean_data/A2/40.py,Func Variable For
+3,./clean_data/A2/41.py,Func Variable For
+3,./clean_data/A2/42.py,Func Variable For
+3,./clean_data/A2/43.py,Func If
+3,./clean_data/A2/44.py,Func
+3,./clean_data/A2/45.py,Func Variable For
+3,./clean_data/A2/46.py,Func Variable For
+3,./clean_data/A2/47.py,Func Variable For
+3,./clean_data/A2/48.py,Func Variable For Variable Variable
+3,./clean_data/A2/49.py,Func Variable For Variable Variable
+3,./clean_data/A2/5.py,Func Variable For
+3,./clean_data/A2/50.py,Func Variable For
+3,./clean_data/A2/51.py,Func Variable For Variable Variable
+3,./clean_data/A2/52.py,Func Variable For
+3,./clean_data/A2/53.py,Func Variable For
+3,./clean_data/A2/54.py,Func Variable For Variable Variable
+3,./clean_data/A2/6.py,Func Variable For Variable Variable
+3,./clean_data/A2/7.py,Func If
+3,./clean_data/A2/8.py,Func Variable For Variable Variable
+3,./clean_data/A2/9.py,Func Variable For Variable Variable
